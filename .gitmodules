@@ -1,0 +1,3 @@
+[submodule "domains/www.yakugai.gr.jp"]
+	path = domains/www.yakugai.gr.jp
+	url = ../www.yakugai.gr.jp/
